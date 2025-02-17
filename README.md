@@ -20,5 +20,7 @@ This project automates the validation of the **Table Search Demo** page on the [
 - Otherwise, it **fails** with an assertion error.
 
 For dependencies and setup, check **requirements.txt** & ### Watch the Demo Video
-[![Watch the Loom video](https://cdn.loom.com/sessions/thumbnails/7b2924a2-e359-4ef3-9ad3-6be4f16364eb-with-play.gif)](https://www.loom.com/share/c969726a44824216a2cde0e4313ef4f2?sid=7b2924a2-e359-4ef3-9ad3-6be4f16364eb)
+### Watch the Demo Video
+[Watch the Loom video](https://www.loom.com/share/c969726a44824216a2cde0e4313ef4f2?sid=7b2924a2-e359-4ef3-9ad3-6be4f16364eb)
+
 
