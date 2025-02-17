@@ -1,10 +1,9 @@
 This **`requirements.txt`** file includes:
 
-- The specified versions of **pytest**, **selenium**, **webdriver-manager**, and **geckodriver-autoinstaller**.
+- The specified versions of **pytest**, **selenium**, and **geckodriver-autoinstaller/chromedriver**.
 - Instructions for downloading **ChromeDriver** and **GeckoDriver**
 To install the dependencies, you can use:
 
-```txt
 # Install pytest
 pytest==8.3.4
 
