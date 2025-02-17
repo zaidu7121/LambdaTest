@@ -1,1 +1,26 @@
+This **`requirements.txt`** file includes:
 
+- The specified versions of **pytest**, **selenium**, **webdriver-manager**, and **geckodriver-autoinstaller**.
+- Instructions for downloading **ChromeDriver** and **GeckoDriver**
+To install the dependencies, you can use:
+
+```txt
+# Install pytest
+pytest==8.3.4
+
+# Install selenium 
+selenium==4.9.1
+
+# Install webdriver-manager to manage browser drivers automatically
+webdriver-
+# For Firefox users:
+# Download GeckoDriver from: https://github.com/mozilla/geckodriver/releases
+# Install the appropriate version for your system.
+# GeckoDriver is required to run Selenium tests in Firefox.
+
+# For Chrome users:
+# Download ChromeDriver from: https://developer.chrome.com/docs/chromedriver/downloads
+# Install the appropriate version based on your Chrome browser version.
+
+```
+Let me know if you need any more adjustments!
