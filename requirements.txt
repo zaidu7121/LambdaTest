@@ -11,6 +11,7 @@ pytest==8.3.4
 selenium==4.9.1
 
 # Install drivers 
+Geckodriver or Chromedriver
 
 # For Firefox users:
 # Download GeckoDriver from: https://github.com/mozilla/geckodriver/releases
@@ -21,5 +22,7 @@ selenium==4.9.1
 # Download ChromeDriver from: https://developer.chrome.com/docs/chromedriver/downloads
 # Install the appropriate version based on your Chrome browser version.
 
-```
+# After installing the required dependencies and drivers, run the tests using the following command:
+python -m pytest qa_selenium_test.py
+
 Let me know if you need any more adjustments!
