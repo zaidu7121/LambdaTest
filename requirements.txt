@@ -10,8 +10,8 @@ pytest==8.3.4
 # Install selenium 
 selenium==4.9.1
 
-# Install webdriver-manager to manage browser drivers automatically
-webdriver-
+# Install drivers 
+
 # For Firefox users:
 # Download GeckoDriver from: https://github.com/mozilla/geckodriver/releases
 # Install the appropriate version for your system.
