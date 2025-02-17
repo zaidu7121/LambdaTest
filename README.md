@@ -1,7 +1,5 @@
 # Selenium Automation - Firefox/Chrome
 
-## Documentation
-
 ### Overview  
 This project automates the validation of the **Table Search Demo** page on the [Selenium Playground](https://www.lambdatest.com/selenium-playground/table-sort-search-demo) using **Selenium WebDriver with Firefox/Chrome**.
 
